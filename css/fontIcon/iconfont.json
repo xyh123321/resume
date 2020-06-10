@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "9520749",
+      "name": "应用",
+      "font_class": "yingyong",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "15035629",
+      "name": "客服",
+      "font_class": "ico_contact",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "15210863",
+      "name": "学历-专业",
+      "font_class": "xueli-zhuanye",
+      "unicode": "e6a1",
+      "unicode_decimal": 59041
+    }
+  ]
+}
